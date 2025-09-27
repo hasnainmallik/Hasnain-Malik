@@ -1,4 +1,4 @@
-<!-- ============ HEADER / TYPING ============ -->
+<!-- ============ HEADER ============ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Hasnain+Malik;Software+Engineering+Student;Passionate+to+learn+new+things" alt="Typing SVG" />
 </p>
@@ -46,10 +46,12 @@ I build small, well-documented projects to learn system design and user flows â€
 
 ## ðŸ“Š GitHub Activity & Stats
 <p align="center">
-  <!-- stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmallik&show_icons=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
-  <!-- top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmalllik&show_icons=true&count_private=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmalllik&layout=compact&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
+  <!-- Streak / longest streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmalllik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
 </p>
 
 ---
