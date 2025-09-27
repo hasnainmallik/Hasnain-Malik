@@ -47,9 +47,9 @@ I build small, well-documented projects to learn system design and user flows â€
 ## ðŸ“Š GitHub Activity & Stats
 <p align="center">
   <!-- stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmalllik&show_icons=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmallik&show_icons=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
   <!-- top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmalllik&layout=compact&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
