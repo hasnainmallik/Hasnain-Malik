@@ -45,7 +45,7 @@ I build small, well-documented projects to learn system design and user flows â€
   Description: A C++ project for managing campus activities, including student records, courses, and administrative tasks, using OOP principles.  
   [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/OOP-Labs-2nd-Sem/tree/main/Open-Ended-Lab)
 
-- ðŸŽ¬ Demo Reel / Video Showcase  
+
 
 ---
 
