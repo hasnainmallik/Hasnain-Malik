@@ -37,9 +37,14 @@ I build small, well-documented projects to learn system design and user flows �
 
 ## 📂 Projects
 
+- ✈️ **Airline Reservation System** — Semester 1  
+  Description: A C++ console application that allows users to book, cancel, and view airline tickets with a simple and interactive interface.  
+  [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/Open-Ended-Lab-1st-Sem)
 
-- ✈️ Airline Reservation System — Semester 1  
-- 🏫 Smart Campus Management System — Semester 2  
+- 🏫 **Smart Campus Management System** — Semester 2  
+  Description: A C++ project for managing campus activities, including student records, courses, and administrative tasks, using OOP principles.  
+  [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/OOP-Labs-2nd-Sem/tree/main/Open-Ended-Lab)
+
 - 🎬 Demo Reel / Video Showcase  
 
 ---
