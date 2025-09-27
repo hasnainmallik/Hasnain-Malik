@@ -36,7 +36,7 @@ I build small, well-documented projects to learn system design and user flows �
 ---
 
 ## 📂 Projects
-> Project names only (links will be added later)
+
 
 - ✈️ Airline Reservation System — Semester 1  
 - 🏫 Smart Campus Management System — Semester 2  
