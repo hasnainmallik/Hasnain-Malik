@@ -45,8 +45,6 @@ I build small, well-documented projects to learn system design and user flows â€
   Description: A C++ project for managing campus activities, including student records, courses, and administrative tasks, using OOP principles.  
   [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/OOP-Labs-2nd-Sem/tree/main/Open-Ended-Lab)
 
-
-
 ---
 
 ## ðŸ“Š GitHub Activity & Stats
@@ -56,7 +54,7 @@ I build small, well-documented projects to learn system design and user flows â€
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&count_private=true&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
   <!-- Streak / longest streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmallik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=hasnainmallik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
 </p>
 
 ---
