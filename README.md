@@ -53,8 +53,8 @@ I build small, well-documented projects to learn system design and user flows â€
   <img src="https://github-readme-stats.vercel.app/api?username=hasnainmallik&show_icons=true&count_private=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&count_private=true&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
-  <!-- Streak / longest streak (new working source) -->
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hasnainmallik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
+  <!-- Streak / longest streak -->
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=hasnainmallik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
 </p>
 
 ---
