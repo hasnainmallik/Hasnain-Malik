@@ -13,7 +13,7 @@ I build small, well-documented projects to learn system design and user flows �
 ## 👋 Quick Intro
 - 🎓 **Software Engineering student** — focused on practical projects and clean code  
 - 🛠️ Core: **C++**, **Java (basics)**, **HTML & CSS (basics)**, Git/GitHub, VS Code  
-- 🌍 Other contributions: **Google Local Guide — 50+ contributions (reviews, photos, ratings)**
+- 🌍 Other contributions: **Google Local Guide — 50+ contributions (reviews, photos, ratings)**  
 
 ---
 
@@ -23,53 +23,54 @@ I build small, well-documented projects to learn system design and user flows �
 </p>
 
 **Technical skills:**
-- **Programming:** C++ — data structures, OOP, small systems  
-- **Web basics:** HTML, CSS — building responsive static pages  
-- **Software:** VS Code, Git & GitHub workflow (branches, PRs)  
-- **Media & Design:** Adobe Premiere Pro (video editing) · CorelDraw (graphics)
+- **Programming:** C++ — Data Structures, OOP, Problem Solving  
+- **Web basics:** HTML, CSS — Static and responsive pages  
+- **Software Tools:** VS Code, Git, GitHub (PRs, branches, commits)  
+- **Media & Design:** Adobe Premiere Pro · CorelDraw
 
 ---
 
 ## 🌍 Other Contributions
-- **Google Local Guide** — 50+ contributions (reviews, photos, ratings of hotels, restaurants, brands)
+- **Google Local Guide** — 50+ contributions reviewing hotels, restaurants & brands
 
 ---
 
 ## 📂 Projects
-
-- ✈️ **Airline Reservation System** — Semester 1  
-  Description: A C++ console application that allows users to book, cancel, and view airline tickets with a simple and interactive interface.  
-  [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/Open-Ended-Lab-1st-Sem)
-
-- 🏫 **Smart Campus Management System** — Semester 2  
-  Description: A C++ project for managing campus activities, including student records, courses, and administrative tasks, using OOP principles.  
-  [![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/hasnainmallik/OOP-Labs-2nd-Sem/tree/main/Open-Ended-Lab)
+- ✈️ **Airline Reservation System** (C++) — Console-based ticket system  
+- 🏫 **Smart Campus Management System** (C++) — Student & course management system  
 
 ---
 
 ## 📊 GitHub Activity & Stats
 <p align="center">
-  <!-- GitHub Stats (all repos counted) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmallik&show_icons=true&count_private=true&theme=vue-light&hide_border=true" height="150" alt="GitHub Stats" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasnainmallik&show_icons=true&count_private=true&theme=vue-light&hide_border=true" height="150" />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&count_private=true&theme=vue-light&hide_border=true" height="150" alt="Top Languages" />
-  <!-- Streak / longest streak -->
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=hasnainmallik&theme=vue-light&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasnainmallik&layout=compact&count_private=true&theme=vue-light&hide_border=true" height="150" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=hasnainmallik&theme=vue-light&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 📫 Contact
-- 📧 **Email:** [hasnain6211@gmail.com](mailto:hasnain6211@gmail.com)  
-- 📱 **Phone:** +92 310 6998046
+- 📧 **Email:** hasnain6211@gmail.com  
+- 📱 **Phone:** +92 310 6998046  
 
 <p align="center">
-  <a href="mailto:hasnain6211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="tel:+923106998046"><img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="phone" /></a>
+  <a href="mailto:hasnain6211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+923106998046">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Want to collaborate? Open to small projects, learning together, and improving with feedback — drop a message or open an issue in any repo!</em>
+  <em>Want to collaborate? Open to learning, team projects and new ideas — just reach out!</em>
 </p>
